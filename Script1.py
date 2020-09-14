@@ -42,3 +42,6 @@ def main():
     print(f"DNS resolution has {ping(dns)}")
     print("***  Test Completed  ***")
 
+
+if __name__ == '__main__':
+    main()
